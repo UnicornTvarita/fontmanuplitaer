@@ -1,0 +1,16 @@
+.heading{
+    font-size: 25px; width: 100%; margin: 0px; box-shadow: 15px 15px 30px rgb(7, 7, 7);
+}
+.note{
+    font-size: 15px; font-weight: bold; border-radius: 5px;
+}
+.footer{
+    position: fixed; bottom: 0; text-align: center; width: 100%; background-color: rgb(249, 249, 246); font-weight: bold;
+}
+canvas{
+    border : 5px solid rgb(247, 246, 238);
+    
+}
+.center{
+    background-image: "coding-neon-icon-vector.jpg" ;
+}
